@@ -1,5 +1,5 @@
 # Machine Learning Application
-<strong> Readme will be updated with complete description soon, website will be soon launched.
+<strong> Readme will be updated with complete description soon, website will be soon launched.<br></strong>
 A wide collection of various Machine learning applications including sentiment analysis, handwriting classification, recommendation engine, color extraction, fashion recommender and identifier, Google API usage and many more!!!!
 <br>
 <li>

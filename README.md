@@ -1,4 +1,5 @@
 # Machine Learning Application
+<strong> Readme will be updated with complete description soon, website will be soon launched.
 A wide collection of various Machine learning applications including sentiment analysis, handwriting classification, recommendation engine, color extraction, fashion recommender and identifier, Google API usage and many more!!!!
 <br>
 <li>
@@ -14,35 +15,21 @@ The google API usage files are complete code snippets which can be used just by 
 </li>
 
 ## Description
-<li>
 
 ### Amazon Apparel Product Recommendation System
 
-Applied Natural Language Feature Engineering and built a content based recommendation system using NLP Models (Bag of words and TF-IDF) in problem of recommending similar products on e-commerce websites by using Amazon product advertising API. 
-#### Tech Stack - Python, BoW, TF-IDF, Word2Vec, NLP
-</li>
-
-<li>
+Applied Natural Language Feature Engineering and built a content based recommendation system using NLP Models (Bag of words and TF-IDF()TFIDF, short for term frequency–inverse document frequency, is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus.) in problem of recommending similar products on e-commerce websites by using Amazon product advertising API. 
+#### Tech Stack - Python, Bag of Words odel, TF-IDF, Word2Vec, NLP
 
 ### Title - Handwritten Digit Recognition 
 
 Applied K Nearest Neighbours Algorithm in recognizing handwritten digits (0 to 9) from the MNIST dataset. Developed a system from scratch which includes a machine to understand and classify the images of handwritten digits as 10 digits (0–9). <strong>Accuracy of the model was around 98%</strong>. 
 #### Tech Stack - Python, ML(KNN), OpenCV, MNIST Database
 
-</li>
-
 ### Title - Dominant Color Extraction 
 
 Applied K Means Clustering Unsupervised Algorithm in Segmenting an image into set ok K Dominant Colors. Extracted the K Dominant Colors from the image and then re-colorized it using those K Colors. 
 #### Tech Stack - Python, ML(K-Means), OpenCV 
-<li>
-
-
-
-</li>	
-
-
-
 
 
 ### Credits

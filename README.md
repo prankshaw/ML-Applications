@@ -34,11 +34,20 @@ Applied K Means Clustering Unsupervised Algorithm in Segmenting an image into se
 #### Tech Stack - Python, ML(K-Means), OpenCV 
 
 
+### Spam or Ham Identification Web App 
+
+Using Bag of words model we find the ‘term frequency’, i.e. number of occurrences of each word in the dataset, along with Term Frequency-Inverse Document Frequency to find probabality of each word, followed by additive smoothing.
+#### Tech Stack - Python, ML(Classification Algorithms)
+
+
+### Tweets Sentiment Analysis
+
+It contains a basic use caseof Natural language processing, and using data classifiers on the dataset. Support vector machines are usedto effectively classify and accuracy is checked using F1 score and ROC-AUC curve.
+#### Tech Stack - Python, ML(Classification Algorithms)- SVM
+
 ### Movie Recommender System 
 ### Fashion Accessories Identification
-### Twwets Sentiment Analysis
 ### Flower Species Detection Web App
-### Spam or Ham Identification Web App 
 
 ### Credits
 
